@@ -313,6 +313,9 @@ main{
 	}
 }
 @media (max-width:425px){
+	.body-find__content{
+		padding: 10px;
+	}
 	.body-find__title {
 		font-size: 38px;
 		letter-spacing: 0.8px;
@@ -334,9 +337,6 @@ main{
 }
 
 @media (max-width:320px){
-	.body-find__content{
-		padding: 10px;
-	}
 	.body-find__image {
 		position: absolute;
 		top: 0;
